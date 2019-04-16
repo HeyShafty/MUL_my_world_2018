@@ -60,19 +60,22 @@ on the edges of the window,
 
 ## Authorized functions
 
-All the functions from the CSFML and the math library are allowed.
-From the libc, here is the full list of authorized functions:
-- malloc
-- free
-- memset
-- *(s)*rand
-- getline
-- *(f)*open
-- *(f)*read
-- *(f)*close
-- *(f)*write
-- opendir
-- readdir
-- closedir
+- CSFML Library:
+    - Every
+- Math library:
+    - Every
+- Libc:
+    - malloc
+    - free
+    - memset
+    - (s)rand
+    - getline
+    - (f)open
+    - (f)read
+    - (f)close
+    - (f)write
+    - opendir
+    - readdir
+    - closedir
 
 > :warning: Any unspecified functions are de facto banned.
