@@ -1,6 +1,7 @@
 # My_World
 
-- **Binary name:** my_world
+- **Binary name:** my_world [*.world]
+- **Mark:** 100%
 
 # Subject
 
