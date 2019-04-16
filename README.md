@@ -1,6 +1,9 @@
 # My_World
 
 - **Binary name:** my_world [*.world]
+- **Group members:**  
+  - [@HeyShafty](https://github.com/HeyShafty)
+  - [@Kilio22](https://github.com/Kilio22)
 - **Mark:** 100%
 
 # Subject
